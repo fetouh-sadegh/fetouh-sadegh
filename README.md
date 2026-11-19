@@ -1,8 +1,8 @@
 # Hi, I'm Fetouh
 
-Full-stack engineer, designer and lecturer in Nouakchott, Mauritania. I build with Supabase, Next.js and TypeScript, teach web development at the University of Nouakchott Al Aasriya, and organise the Supabase community in Mauritania as a member of the SupaSquad.
+Full-stack engineer, designer and lecturer in Nouakchott, Mauritania. I build with Supabase, Next.js and TypeScript, teach web development at the University of Nouakchott Al Aasriya
 
-Next up: hosting the Supabase Launch Week 16 meetup in Nouakchott on 10 December 2026.
+
 
 ## Talks
 
