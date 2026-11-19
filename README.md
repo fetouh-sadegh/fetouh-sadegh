@@ -3,8 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/fetouh-sadegh-35950b1a5/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.brandak.app/design-portfolio"><img src="https://img.shields.io/badge/Design_portfolio-1E1B4B?style=for-the-badge&logo=figma&logoColor=white" alt="Design portfolio"></a>
+  <a href="https://www.linkedin.com/in/fetouh-sadegh-35950b1a5/"><img src="https://img.shields.io/badge/LinkedIn_%E2%86%97-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn (opens linkedin.com)"></a>
+  &nbsp;&nbsp;
+  <a href="https://www.brandak.app/design-portfolio"><img src="https://img.shields.io/badge/Design_portfolio-1E1B4B?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyLjQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTE0IDRoNnY2Ii8+PHBhdGggZD0iTTIwIDQgMTAgMTQiLz48cGF0aCBkPSJNMTggMTR2NWExIDEgMCAwIDEtMSAxSDVhMSAxIDAgMCAxLTEtMVY3YTEgMSAwIDAgMSAxLTFoNSIvPjwvc3ZnPg==" alt="Design portfolio (opens brandak.app)"></a>
 </p>
 
 I build web and mobile apps, mostly with Next.js and Supabase, and I design the interfaces and visuals that go with them. I also teach web development at the University of Nouakchott Al Aasriya.
@@ -56,10 +57,14 @@ The code of each talk I give lives here, so anyone who attended can open the sli
 - **Frankenstein UI**: a local canvas to collect UI references, judge them and assemble new screens from pieces of them, with a coding agent working in the same files.
 - **crello-lab**: a faithful HTML renderer for the Crello graphic-design dataset, built as a research instrument.
 
-## Tools I use
+## My stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,nodejs,express,tailwind,flutter,dart,supabase,postgres&perline=11" alt="TypeScript, JavaScript, Next.js, React and React Native, Node.js, Express, Tailwind CSS, Flutter, Dart, Supabase, PostgreSQL">
-  <br>
-  <img src="https://skillicons.dev/icons?i=mongodb,docker,aws,linux,github,notion,figma,ai,ae,unity,unreal&perline=11" alt="MongoDB, Docker, AWS, Linux, GitHub, Notion, Figma, Illustrator, After Effects, Unity, Unreal Engine">
+  <img src="https://img.shields.io/badge/Next.js-0B1020?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/React-0B1020?style=for-the-badge&logo=react&logoColor=white" alt="React">
+  <img src="https://img.shields.io/badge/TypeScript-0B1020?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Supabase-0B1020?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
+  <img src="https://img.shields.io/badge/PostgreSQL-0B1020?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0B1020?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/PWA-0B1020?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA">
 </p>
