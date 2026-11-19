@@ -9,27 +9,6 @@
 
 I build web and mobile apps, mostly with Next.js and Supabase, and I design the interfaces and visuals that go with them. I also teach web development at the University of Nouakchott Al Aasriya.
 
-## Talks
-
-The code of each talk I give lives here, so anyone who attended can open the slides again and run the demos.
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/fetouh-sadegh/talk-supabase"><img src="assets/talk-supabase.jpg" alt="How Supabase Accelerates Modern Development"></a>
-      <br><b><a href="https://github.com/fetouh-sadegh/talk-supabase">How Supabase Accelerates Modern Development</a></b>
-      <br><sub>Mauritanian Programming Community · 2026</sub>
-      <br>Slides, the Message Wall app built live on stage, and the attendee challenge.
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/fetouh-sadegh/talk-design-without-a-designer"><img src="assets/talk-design.jpg" alt="How to Design Without Being a Designer"></a>
-      <br><b><a href="https://github.com/fetouh-sadegh/talk-design-without-a-designer">How to Design Without Being a Designer</a></b>
-      <br><sub>NET Club, Novation ESP Tech · 2026</sub>
-      <br>An 85-slide deck, a reference library, a design studio and a gallery for attendees.
-    </td>
-  </tr>
-</table>
-
 ## What I'm building
 
 <table>
@@ -48,6 +27,27 @@ The code of each talk I give lives here, so anyone who attended can open the sli
   <tr>
     <td width="84" align="center"><img src="assets/more.svg" width="56" alt="More to come"></td>
     <td><b>More on the way 🚀</b><br><sub>A few other projects are in the works, to be announced.</sub></td>
+  </tr>
+</table>
+
+## Talks
+
+The code of each talk I give lives here, so anyone who attended can open the slides again and run the demos.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/fetouh-sadegh/talk-supabase"><img src="assets/talk-supabase.jpg" alt="How Supabase Accelerates Modern Development"></a>
+      <br><b><a href="https://github.com/fetouh-sadegh/talk-supabase">How Supabase Accelerates Modern Development</a></b>
+      <br><sub>Mauritanian Programming Community · 2026</sub>
+      <br>Slides, the Message Wall app built live on stage, and the attendee challenge.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/fetouh-sadegh/talk-design-without-a-designer"><img src="assets/talk-design.jpg" alt="How to Design Without Being a Designer"></a>
+      <br><b><a href="https://github.com/fetouh-sadegh/talk-design-without-a-designer">How to Design Without Being a Designer</a></b>
+      <br><sub>NET Club, Novation ESP Tech · 2026</sub>
+      <br>An 85-slide deck, a reference library, a design studio and a gallery for attendees.
+    </td>
   </tr>
 </table>
 
