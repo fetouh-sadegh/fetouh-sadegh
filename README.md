@@ -47,7 +47,7 @@ The code of each talk I give lives here, so anyone who attended can open the sli
   </tr>
   <tr>
     <td width="84" align="center"><img src="assets/more.svg" width="56" alt="More to come"></td>
-    <td><b>More on the way</b><br><sub>A few other projects are in the works, to be announced.</sub></td>
+    <td><b>More on the way 🚀</b><br><sub>A few other projects are in the works, to be announced.</sub></td>
   </tr>
 </table>
 
@@ -59,5 +59,7 @@ The code of each talk I give lives here, so anyone who attended can open the sli
 ## Tools I use
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,supabase,postgres,flutter,tailwind,figma,ai,ae&perline=10" alt="Next.js, React, TypeScript, Supabase, PostgreSQL, Flutter, Tailwind CSS, Figma, Illustrator, After Effects">
+  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,nodejs,express,tailwind,flutter,dart,supabase,postgres&perline=11" alt="TypeScript, JavaScript, Next.js, React and React Native, Node.js, Express, Tailwind CSS, Flutter, Dart, Supabase, PostgreSQL">
+  <br>
+  <img src="https://skillicons.dev/icons?i=mongodb,docker,aws,linux,github,notion,figma,ai,ae,unity,unreal&perline=11" alt="MongoDB, Docker, AWS, Linux, GitHub, Notion, Figma, Illustrator, After Effects, Unity, Unreal Engine">
 </p>
