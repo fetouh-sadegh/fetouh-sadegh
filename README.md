@@ -26,6 +26,10 @@ I build web and mobile apps, mostly with Next.js and Supabase, and I design the 
     <td><b><a href="https://mawarli.vercel.app">Mawarli</a></b><br>Describe your door once, with a pin, voice notes and photos, and share one link.</td>
   </tr>
   <tr>
+    <td width="84" align="center"><a href="https://steady-iota-three.vercel.app"><img src="assets/steady.png" width="56" alt="Steady"></a></td>
+    <td><b><a href="https://steady-iota-three.vercel.app">Steady</a></b><br>A habit tracker you can share with a partner, who sees only the habits you choose to share.</td>
+  </tr>
+  <tr>
     <td width="84" align="center"><img src="assets/more.svg" width="56" alt="More to come"></td>
     <td><b>More on the way 🚀</b><br><sub>A few other projects are in the works, to be announced.</sub></td>
   </tr>
