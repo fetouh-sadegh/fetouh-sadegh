@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/fetouh-sadegh-35950b1a5/"><img src="https://img.shields.io/badge/LinkedIn_%E2%86%97-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn (opens linkedin.com)"></a>
+  <a href="https://www.linkedin.com/in/fetouh-sadegh-35950b1a5/"><img src="https://img.shields.io/badge/LinkedIn_%E2%86%97-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik00Ljk4IDMuNWEyLjUgMi41IDAgMSAxIDAgNSAyLjUgMi41IDAgMCAxIDAtNXpNMyA5Ljc1aDR2MTEuMjVIM3pNOS41IDkuNzVoMy44djEuNmguMDZjLjUzLTEgMS44My0yLjA2IDMuNzctMi4wNiA0LjAzIDAgNC43NyAyLjY1IDQuNzcgNi4xVjIxaC00di01LjA3YzAtMS4yMS0uMDItMi43Ny0xLjY5LTIuNzctMS42OSAwLTEuOTUgMS4zMi0xLjk1IDIuNjhWMjFoLTR6Ii8+PC9zdmc+" alt="LinkedIn (opens linkedin.com)"></a>
   &nbsp;&nbsp;
   <a href="https://www.brandak.app/design-portfolio"><img src="https://img.shields.io/badge/Design_portfolio-1E1B4B?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyLjQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTE0IDRoNnY2Ii8+PHBhdGggZD0iTTIwIDQgMTAgMTQiLz48cGF0aCBkPSJNMTggMTR2NWExIDEgMCAwIDEtMSAxSDVhMSAxIDAgMCAxLTEtMVY3YTEgMSAwIDAgMSAxLTFoNSIvPjwvc3ZnPg==" alt="Design portfolio (opens brandak.app)"></a>
 </p>
@@ -61,10 +61,10 @@ The code of each talk I give lives here, so anyone who attended can open the sli
 
 <p>
   <img src="https://img.shields.io/badge/Next.js-0B1020?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/React-0B1020?style=for-the-badge&logo=react&logoColor=white" alt="React">
-  <img src="https://img.shields.io/badge/TypeScript-0B1020?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Supabase-0B1020?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
-  <img src="https://img.shields.io/badge/PostgreSQL-0B1020?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0B1020?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/PWA-0B1020?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA">
+  <img src="https://img.shields.io/badge/React-0B1020?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/TypeScript-0B1020?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Supabase-0B1020?style=for-the-badge&logo=supabase&logoColor=3ECF8E" alt="Supabase">
+  <img src="https://img.shields.io/badge/PostgreSQL-0B1020?style=for-the-badge&logo=postgresql&logoColor=6CA0F0" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0B1020?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/PWA-0B1020?style=for-the-badge&logo=pwa&logoColor=B388FF" alt="PWA">
 </p>
